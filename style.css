@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus&family=Headland+One&family=Oswald:wght@300&family=Playfair+Display:wght@600&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+#TitleName{
+    text-align: center;
+    font-family: 'Headland One', serif;
+}
+#body{
+    color: black;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Headland One', serif;
+}
+#body2{
+    color: white;
+    font-family: 'Headland One', serif;
+}
+#img #backgroundImage{
+    height: 100vh;
+    width: 100vw;
+}
+#img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#img h1{
+    position: absolute;
+    text-align: center;
+    margin-top: 30px;
+}
+#img form{
+    position: absolute;
+    margin-top: 100px;
+    text-align: center;
+}
+#textBox{
+    text-align: center;
+    border: 3px solid black;
+    padding: 2px;
+}
+#textBox1{
+    text-align: center;
+    border: 3px solid black;
+    padding: 2px;
+    margin-top: 5px;
+}
+#textBox2{
+    text-align: center;
+    border: 3px solid black;
+    padding: 2px;
+    margin-top: 5px;
+}
+#textBox3{
+    text-align: center;
+    border: 3px solid black;
+    padding: 2px;
+    margin-top: 5px;
+}
